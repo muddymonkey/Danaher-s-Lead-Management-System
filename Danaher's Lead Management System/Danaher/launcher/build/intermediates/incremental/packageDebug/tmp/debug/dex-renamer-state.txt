@@ -1,0 +1,4 @@
+#Mon Mar 08 23:31:41 IST 2021
+base.0=/Users/mrunalbodkhe/Danaher/launcher/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
