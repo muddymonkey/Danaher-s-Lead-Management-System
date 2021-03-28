@@ -14,7 +14,7 @@
     <meta-data android:name="unity.splash-mode" android:value="0" />
     <meta-data android:name="unity.splash-enable" android:value="True" />
     <meta-data android:name="notch.config" android:value="portrait|landscape" />
-    <meta-data android:name="unity.build-id" android:value="e1b5b063-45e7-4c28-988f-4999353b7cb0" />
+    <meta-data android:name="unity.build-id" android:value="ad4662a5-ee63-440f-b02d-d6e51153ad8b" />
     <provider android:name="com.cartoontexas.andyr.unityplugin.UnitySSContentProvider" android:authorities="a_very_unique_name" android:exported="false" android:grantUriPermissions="true" />
   </application>
   <uses-feature android:glEsVersion="0x00030000" />
